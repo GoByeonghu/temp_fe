@@ -1,5 +1,5 @@
 # Node.js 이미지 사용 (버전은 필요에 따라 조정)
-FROM node:16
+FROM krmp-d2hub-idock.9rum.cc/goorm/node:16
 
 # 작업 디렉토리 설정
 WORKDIR /app
